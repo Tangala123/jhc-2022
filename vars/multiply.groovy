@@ -1,4 +1,4 @@
 def call (U,V) {
   def result = U * V 
-  echo " result is ${result}
+  echo " result is ${result} "
 } 
